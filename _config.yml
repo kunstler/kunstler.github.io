@@ -1,0 +1,26 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Georges Kunstler
+tagline:             'Forest ecologist'
+description:         'Researcher at <a href="http://www.irstea.fr/en/emgr" target="_blank">Mountain Ecosystems research unit Irstea</a> Grenoble, France.'
+url:                 http://kunstler.github.io/
+baseurl:             ''
+paginate:            5
+
+# About/contact
+author:
+  name:              Georges Kunstler
+  url:               https://twitter.com/mdo
+  email:             georges.kunstler@irstea.fr
+
+# Custom vars
+version:             1.0.0
+
+# Gems
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
