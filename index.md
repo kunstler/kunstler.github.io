@@ -3,6 +3,5 @@ layout: default
 title: Home
 ---
 
-### I study tree population biology and forest community ecology at Irstea Grenoble. You can find my publications at [Google Scholar](https://scholar.google.com/citations?user=SlIUBF4AAAAJ&hl=en).
+### I'm a researcher at [Irstea Grenoble](http://www.irstea.fr/en/emgr), interested in various topics such as tree population biology and forest community ecology.
 
-### Research Interests

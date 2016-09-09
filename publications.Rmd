@@ -13,5 +13,5 @@ title: Publications
 
 
 ```{r results = "asis", echo = FALSE}
-PrintBibliography(bib, .opts = list(check.entries = FALSE, sorting = "ynt"))
+PrintBibliography(bib, .opts = list(check.entries = FALSE, sorting = "ydnt"))
 ```
