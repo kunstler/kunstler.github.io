@@ -14,13 +14,17 @@ paginate:            5
 # About/contact
 author:
   name:              Georges Kunstler
-  url:               https://twitter.com/mdo
+  url:               http://www.irstea.fr/en/kunstler
   email:             georges.kunstler@irstea.fr
+  github: kunstler
+  twitter: GeorgesKunstler
+  orcid: http://orcid.org/0000-0002-2544-1940
+  google_scholar: https://scholar.google.com/citations?user=SlIUBF4AAAAJ&hl=en
 
 # Custom vars
 version:             1.0.0
 
 # Gems
-gems: [jekyll-paginate]
+gems: ['jekyll-paginate']
 paginate: 5
 paginate_path: "page:num"

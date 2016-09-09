@@ -8,10 +8,12 @@ title: About
   biology and forest community ecology at Irstea Grenoble.
 </p>
 
-*TODO*, my twitter account is [@mdo](https://twitter.com/mdo).
+My <i class="fa fa-twitter"></i> account is [@GeorgesKunstler](https://twitter.com/GeorgesKunstler).
 
-You can find a list of my publication on [Google Scholar](https://scholar.google.com/citations?user=SlIUBF4AAAAJ&hl=en)
+<i class="fa fa-google"></i> You can find a list of my publication on [Google Scholar](https://scholar.google.com/citations?user=SlIUBF4AAAAJ&hl=en)
 
+
+<i class="fa fa-github"></i> 
 ## Setup
 
 Some fun facts about the setup of this project include:
