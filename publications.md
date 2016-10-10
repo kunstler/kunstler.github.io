@@ -4,13 +4,21 @@ title: Publications
 ---
 
 
+
+
+
 [1] T. Bourdier, T. Cordonnier, G. Kunstler, C. Piedallu, G.
 Lagarrigues and B. Courbaud. "Tree Size Inequality Reduces Forest
 Productivity: An Analysis Combining Inventory Data for Ten
 European Species and a Light Competition Model". En. In: _PLOS
 ONE_ 11.3 (2016), p. e0151852. ISSN: 1932-6203.
 
-[2] G. Kunstler, D. Falster, D. A. Coomes, F. Hui, R. M. Kooyman,
+[2] E. Defossez, B. Courbaud, O. Lasbouygues, K. Schiffers and G.
+Kunstler. "The variation of direct and indirect interaction along
+climatic gradient depends on species strategies: an experiment on
+tree seedling survival." In: _Oikos_ 125 (2016), pp. 708-717.
+
+[3] G. Kunstler, D. Falster, D. A. Coomes, F. Hui, R. M. Kooyman,
 D. C. Laughlin, L. Poorter, M. Vanderwel, G. Vieilledent, S. J.
 Wright, M. Aiba, C. Baraloto, J. Caspersen, J. H. C. Cornelissen,
 S. Gourlet-Fleury, M. Hanewinkel, B. Herault, J. Kattge, H.
@@ -21,19 +29,14 @@ Zimmerman, N. E. Zimmermann and M. Westoby. "Plant functional
 traits have globally consistent effects on competition". In:
 _Nature_ 529 (2016), pp. 204-207.
 
-[3] M. C. Vanderwel, H. Zeng, J. P. Caspersen, G. Kunstler and J.
+[4] M. C. Vanderwel, H. Zeng, J. P. Caspersen, G. Kunstler and J.
 W. Lichstein. "Demographic controls of aboveground forest biomass
 across North America". In: _Ecology Letters_ 19.4 (2016), pp.
 414-423.
 
-[4] T. Cordonnier and G. Kunstler. "The Gini index brings
+[5] T. Cordonnier and G. Kunstler. "The Gini index brings
 asymmetric competition to light". In: _Perspectives in Plant
 Ecology, Evolution and Systematics_ in press (Jan. 2015).
-
-[5] E. Defossez, B. Courbaud, O. Lasbouygues, K. Schiffers and G.
-Kunstler. "The variation of direct and indirect interaction along
-climatic gradient depends on species strategies: an experiment on
-tree seedling survival." In: _Oikos_ in revision (2015).
 
 [6] D. M. Forsyth, D. M. Wilson, T. A. Easdale, G. Kunstler, C. D.
 Canham, W. A. Ruscoe, E. F. Wright, L. Murphy, A. M. Gormley, A.
@@ -218,3 +221,5 @@ _Canadian Journal of Forest Research_ 35 (2005), pp. 1657-1668.
 (Fagus sylvatica L.) and oak (Quercus pubescens Mill.) seedlings
 in natural pine (Pinus sylvestris L.) woodlands". In: _European
 Journal of Forest Research_ 123 (2004), pp. 331-337.
+
+

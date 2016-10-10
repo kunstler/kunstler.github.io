@@ -11,7 +11,7 @@ title: About
 You can find a list of my publication on [Google Scholar <i class="fa fa-google"></i>](https://scholar.google.com/citations?user=SlIUBF4AAAAJ&hl=en)
 
 
-**My contact details*
+**My contact details**
 
 
 <hr>
