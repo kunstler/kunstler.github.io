@@ -29,28 +29,28 @@ Work experience
   Grenoble, with [Mark Westoby](http://bio.mq.edu.au/research/groups/ecology/westoby/mark.htm).
 * Since 2015 menber of the board of the French Ecological Society, [sfe](https://www.sfecologie.org/)
 
-<!-- Supervision -->
-<!-- ---------- -->
+Supervision
+----------
 
-<!-- *PhD* -->
+*PhD*
 
-<!-- * Thomas Bourdier (third supervisor) - 2016. Size -->
-<!--   inequality and forest productivity. Université Grenoble Alpes. -->
-<!-- * Emmanuel Defossez (main supervisor) - 2012. Climate change and -->
-<!--   tree recruitment in mountain forest. Université Joseph Fourier, -->
-<!--   Grenoble I. -->
-<!-- * Ghislain Vieilledent (third supervisor) - 2009. Structuring -->
-<!--   uncertainty and variability of ecological processes in forest -->
-<!--   dynamics models – Application to Silver Fir and Norway Spruce -->
-<!--   coexistence. Université Joseph Fourier, -->
-<!--   Grenoble I. -->
+* Thomas Bourdier (third supervisor) - 2016. Size
+  inequality and forest productivity. Université Grenoble Alpes.
+* Emmanuel Defossez (main supervisor) - 2012. Climate change and
+  tree recruitment in mountain forest. Université Joseph Fourier,
+  Grenoble I.
+* Ghislain Vieilledent (third supervisor) - 2009. Structuring
+  uncertainty and variability of ecological processes in forest
+  dynamics models – Application to Silver Fir and Norway Spruce
+  coexistence. Université Joseph Fourier,
+  Grenoble I.
 
 
-<!-- *Post-Doc* -->
+*Post-Doc*
 
-<!-- * Flore Viard-Cretat, 2010-2012. Climate, functional composition and diversity drive forest productivity in the French Alps. -->
-<!-- * Katalyn Csillery, 2011-2012. Hierarchical Bayesian -->
-<!--   models to estimate size, competition and climate effect on tree mortality. -->
+* Flore Viard-Cretat, 2010-2012. Climate, functional composition and diversity drive forest productivity in the French Alps.
+* Katalyn Csillery, 2011-2012. Hierarchical Bayesian
+  models to estimate size, competition and climate effect on tree mortality.
 
 
 <!-- *Master I* -->
