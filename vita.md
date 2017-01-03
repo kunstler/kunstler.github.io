@@ -36,10 +36,10 @@ Supervision
 
 * Thomas Bourdier (third supervisor) - 2016. Size
   inequality and forest productivity. Université Grenoble Alpes.
-* Emmanuel Defossez (main supervisor) - 2012. Climate change and
+* [Emmanuel Defossez](https://scholar.google.fr/citations?user=g7WY2mYAAAAJ&hl=fr) (main supervisor) - 2012. Climate change and
   tree recruitment in mountain forest. Université Joseph Fourier,
   Grenoble I.
-* Ghislain Vieilledent (third supervisor) - 2009. Structuring
+* [Ghislain Vieilledent](https://ghislainv.github.io/) (third supervisor) - 2009. Structuring
   uncertainty and variability of ecological processes in forest
   dynamics models – Application to Silver Fir and Norway Spruce
   coexistence. Université Joseph Fourier,
