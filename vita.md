@@ -27,7 +27,7 @@ Work experience
 * 2006 - 2012 Research Scientist, Irstea Grenoble, Unit Mountain Ecosystems.
 * 2012 - 2014 Marie-Curie Fellow, Macquarie University Sydney - Irstea
   Grenoble, with [Mark Westoby](http://bio.mq.edu.au/research/groups/ecology/westoby/mark.htm).
-* Since 2015 menber of the board of the French Ecological Society, [sfe](https://www.sfecologie.org/)
+* Since 2015 member of the board of the French Ecological Society, [sfe](https://www.sfecologie.org/)
 
 Supervision
 ----------
@@ -49,7 +49,7 @@ Supervision
 *Post-Doc*
 
 * Flore Viard-Cretat, 2010-2012. Climate, functional composition and diversity drive forest productivity in the French Alps.
-* Katalyn Csillery, 2011-2012. Hierarchical Bayesian
+* [Katalin Csillery](https://sites.google.com/site/katalincsillery/), 2011-2012. Hierarchical Bayesian
   models to estimate size, competition and climate effect on tree mortality.
 
 
