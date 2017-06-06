@@ -13,4 +13,3 @@ version of Scott Chamberlains webpage https://github.com/sckott/scott.
   unlink('publications.Rmd')` (ugly but we need to delete the Rmd file
   because interpreted as md file by Lanyon)
 
-
