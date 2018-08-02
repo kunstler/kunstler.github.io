@@ -34,6 +34,8 @@ Supervision
 
 *PhD*
 
+* Xavier Laviron, co-supervisor with Leca CNRS - on going. Joint species
+  distribution models. Université Grenoble Alpes.
 * Thomas Bourdier (third supervisor) - 2016. Size
   inequality and forest productivity. Université Grenoble Alpes.
 * [Emmanuel Defossez](https://scholar.google.fr/citations?user=g7WY2mYAAAAJ&hl=fr) (main supervisor) - 2012. Climate change and
@@ -51,6 +53,7 @@ Supervision
 * Flore Viard-Cretat, 2010-2012. Climate, functional composition and diversity drive forest productivity in the French Alps.
 * [Katalin Csillery](https://sites.google.com/site/katalincsillery/), 2011-2012. Hierarchical Bayesian
   models to estimate size, competition and climate effect on tree mortality.
+* Arnaud Guyennon, 2017-2019. Stochastic patch occupancy models for European forests.
 
 
 <!-- *Master I* -->
