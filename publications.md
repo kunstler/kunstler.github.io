@@ -17,7 +17,7 @@ Biology_ (2019), p. S004058091930022X. ISSN: 00405809. DOI:
 [2] A. Guyennon, B. Reineking, J. Dahlgren, G. Kändler, A.
 Lehtonen, S. Ratcliffe, P. Ruiz-Benito, M. A. Zavala, and G.
 Kunstler. _Local Patch Occupancy Dynamics Match the Distribution
-of European Trees at Continental Scale_. En. Preprint. Ecology,
+of European Trees at Continental Scale_. En. Preprint. bioRxiv,
 2019. DOI: [10.1101/748483](https://doi.org/10.1101%2F748483).
 
 [3] M. Jourdan, G. Kunstler, and X. Morin. "How Neighbourhood
@@ -41,7 +41,7 @@ DOI: [10.1002/ece3.5627](https://doi.org/10.1002%2Fece3.5627).
 Ruiz-Benito, D. Z. Childs, J. Dahlgren, A. Lehtonen, W. Thuiller,
 C. Wirth, M. A. Zavala, and R. Salguero-Gomez. _Tree Demographic
 Performance of European Tree Species at Their Hot and Cold Edges._
-En. Preprint. Ecology, 2019. DOI:
+En. Preprint. bioRxiv, 2019. DOI:
 [10.1101/801084](https://doi.org/10.1101%2F801084).
 
 [6] T. Cordonnier, T. Bourdier, G. Kunstler, C. Piedallu, and B.
