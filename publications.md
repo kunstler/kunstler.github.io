@@ -17,8 +17,7 @@ Biology_ (2019), p. S004058091930022X. ISSN: 00405809. DOI:
 [2] A. Guyennon, B. Reineking, J. Dahlgren, G. Kändler, A.
 Lehtonen, S. Ratcliffe, P. Ruiz-Benito, M. A. Zavala, and G.
 Kunstler. _Local Patch Occupancy Dynamics Match the Distribution
-of European Trees at Continental Scale_. En. Preprint. bioRxiv,
-2019. DOI: [10.1101/748483](https://doi.org/10.1101%2F748483).
+of European Trees at Continental Scale_. En. Preprint. bioRxiv, 2019. DOI: [10.1101/748483](https://doi.org/10.1101%2F748483).
 
 [3] M. Jourdan, G. Kunstler, and X. Morin. "How Neighbourhood
 Interactions Control the Temporal Stability and Resilience to
