@@ -44,14 +44,17 @@ New projects
 - ANR DECLIC - Tree DEmographic responses to CLImate stresses and Competition for a trait-based biogeography (PI G. Kunstler INRAE)
 - BIODIVERSA FUNPOTENTIAL - Potential of functional diversity for increasing the disturbance resiliency of forests and forest-based socio-ecological systems (PI M. Peltoniemi LUKE)
 - VULCADYS - Caractériser la vulnérabilité des forêts au changement climatique par analyses démographique et physiologique (PI T. Cordonnier INRAE)
+- RESONATE H2020 - Resilient forest value chains – enhancing resilience through natural and socio-economic responses (PI M. Lindner)
 
 On going projects
 
-- [REFORCE](https://www.reforce-project.eu/)
 - [FORBIC](https://forbic.irstea.fr/)
 - [ORCHAMP](http://www.za-alpes.org/projets-en-cours/sentinelles-des-alpes/observatoire-orchamp/)
 
+Past projects
 
-
-
+* [REFORCE](https://www.reforce-project.eu/) (ERA-NET PI B. Reinekeing)
+* DEMOCLIM (Marie Curie OIF PI G. Kunstler with M. Westoby)
+* BACCARA (FP7, PI H. Jactel Inra)
+* MANFRED (Alpine Space, PI M. Hanewinkel)
 
