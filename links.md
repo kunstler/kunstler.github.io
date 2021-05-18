@@ -7,7 +7,6 @@ title: Links
 
 - Arnaud Guyennon (REFORCE, with B. Reineiking))
 - Valentin Journé (FORBIC, with J. Clark and B. Courbaud)
-- Cathleen Petit (REFORCE, with B. Courbaud and B. Reineking)
 
 # PhD student co-supervision
 
@@ -26,6 +25,7 @@ title: Links
 
 - [Katalin Csillery](https://sites.google.com/site/katalincsillery/)
 - [Flore Viard-Cretat](https://www.researchgate.net/scientific-contributions/15565064_Flore_Viard-Cretat)
+- Cathleen Petit (REFORCE, with B. Courbaud and B. Reineking)
 
 # Collaborators
 
