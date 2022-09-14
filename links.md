@@ -7,6 +7,8 @@ title: Links
 
 - Arnaud Guyennon (REFORCE, with B. Reineiking))
 - Valentin Journé (FORBIC, with J. Clark and B. Courbaud)
+- Julien Barrere (Biodiversa FUNPOTENTIAL, with T. Cordonnier and B. Reineking)
+- Laura Touzot (ANR DECLIC) 
 
 # PhD student co-supervision
 
