@@ -1,8 +1,9 @@
 ---
 layout: page
-title: ANR DECLIC - Tree DEmographic responses to CLImate stresses and Competition for a trait-based biogeography
+title: ANR DECLIC 
 ---
 
+**ANR DECLIC - Tree DEmographic responses to CLImate stresses and Competition for a trait-based biogeography**
 
 ANR project from 2021 to 2024
 
