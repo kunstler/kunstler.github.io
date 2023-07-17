@@ -14,6 +14,8 @@ title: Links
 
 - Sylvain Mollier (main supervisor  L. Berges with J-L Dupouey) - Historical ecology and biodiversity conservation of ancient forests in protected mountain areas: a multi-taxon approach
 - Lukas Heiland (main supervisor L. Hulsmann Uni. Regensburg) - Climate change and forest regeneration
+- Anne Baranger (cosupervision with Thomas Cordonnier) - Forests vulnerability to climate change using demographic and physiological analyses 
+- Natheo Beauchamp (main supervisor Benoit Courbaud) - Adaptation of Europe forest management to climate change and risks to disturbances
 
 # Former PhD students
 
