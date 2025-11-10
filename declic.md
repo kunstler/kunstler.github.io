@@ -15,12 +15,18 @@ ANR project from 2021 to 2024
 
 ## Postdoc:
 
-- Laura Touzot
-- Max Larter
+- Laura Touzot (LESSEM)
+- Max Larter (PIAF BIOGECO)
+
 
 ## PhD students related to the project:
 
-- Anne Baranger
+- Anne Baranger (LESSEM)
+
+## IE
+
+- Enzo Gaillard (UREP)
+- Tom Graillot (UREP)
 
 
 <br>
