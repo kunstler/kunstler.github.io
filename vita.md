@@ -34,18 +34,23 @@ Supervision
 
 *PhD*
 
-* Xavier Laviron, co-supervisor with Leca CNRS - on going. Joint species
-  distribution models. Université Grenoble Alpes.
-* Thomas Bourdier (third supervisor) - 2016. Size
+* Théophile Moreal de Brevans, cosupervised with L. Hertzog, C. Collet - on going. Monitoring of French forests regeneration. Université de Lorraine.
+* Anne Baranger, cosupervised with T. Cordonnier - 2025.Vulnerability of forest to climate change in AURA, Université Grenoble Alpes.
+* Natheo Beauchamp, cosupervised with  B. Courbaud - 2025. Managing
+European forests for a higher resilience to climate change. Université Grenoble
+Alpes.
+* Lukas Heiland, cosupervised with L. Hülsmann - 2023. Regeneration of European forests in the face of climate change. University Regensburg, Germany.
+* Thomas Bourdier cosupervised with B. Courbaud and T. Cordonnier - 2016. Size
   inequality and forest productivity. Université Grenoble Alpes.
 * [Emmanuel Defossez](https://scholar.google.fr/citations?user=g7WY2mYAAAAJ&hl=fr) (main supervisor) - 2012. Climate change and
   tree recruitment in mountain forest. Université Joseph Fourier,
   Grenoble I.
-* [Ghislain Vieilledent](https://ghislainv.github.io/) (third supervisor) - 2009. Structuring
+* [Ghislain Vieilledent](https://ghislainv.github.io/) cosupervised with B. Courbaud - 2009. Structuring
   uncertainty and variability of ecological processes in forest
   dynamics models – Application to Silver Fir and Norway Spruce
   coexistence. Université Joseph Fourier,
   Grenoble I.
+
 
 
 *Post-Doc*
@@ -54,6 +59,10 @@ Supervision
 * [Katalin Csillery](https://sites.google.com/site/katalincsillery/), 2011-2012. Hierarchical Bayesian
   models to estimate size, competition and climate effect on tree mortality.
 * Arnaud Guyennon, 2017-2019. Stochastic patch occupancy models for European forests.
+* [Valentin Journé](https://journevalentin.wixsite.com/forestecol), 2020-2022. Forest fecundity in the face of climate change (PI Prof J. Clark avec B. Courbaud).
+* [Laura Touzot](https://www.linkedin.com/in/laura-touzot-b041b3195/), 2021 -2023. How competition and temporal variability drive forests response to climate change in Europe and North America.
+* [Julien Barrere](https://jbarrere3.github.io/), 2021-2023. Climate change and forest disturbance impacts on European forests
+
 
 
 <!-- *Master I* -->
