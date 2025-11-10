@@ -10,7 +10,7 @@ ANR project from 2021 to 2025
 ## Partners
 
 - [Sylvain Delzon](http://sylvain-delzon.com/) at [BIOGECO](https://www6.bordeaux-aquitaine.inrae.fr/biogeco) Inrae
-- [Franck Jabot](https://lisc.inrae.fr/franck-jabot/) at [Lisc](https://lisc.inrae.fr/) Inrae
+- [Franck Jabot](https://lisc.inrae.fr/franck-jabot/) first at [Lisc](https://lisc.inrae.fr/) and then at [UREP](https://urep.clermont.hub.inrae.fr/) Inrae
 - [Guillaume Charrier](https://www.researchgate.net/profile/Guillaume-Charrier) at [Piaf](https://www6.clermont.inrae.fr/piaf) Inrae
 
 ## Postdoc:
